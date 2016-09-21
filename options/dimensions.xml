@@ -1,0 +1,12 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.2736.1824@192dpi" x="943" y="247" />
+    <location key="WELCOME_SCREEN.0.0.2736.1824@192dpi" x="1368" y="460" />
+    <location key="SettingsEditor.5472.0.5120.2880@192dpi" x="7420" y="689" />
+    <location key="#Browse_JetBrains_Plugins_.5472.0.5120.2880@192dpi" x="7607" y="1012" />
+    <location key="FileChooserDialogImpl.5472.0.5120.2880@192dpi" x="7607" y="885" />
+    <location key="#Plugins.5472.0.5120.2880@192dpi" x="7532" y="1011" />
+    <location key="#com.intellij.codeInsight.template.impl.EditVariableDialog.5472.0.5120.2880@192dpi" x="8195" y="1134" />
+    <size key="SettingsEditor.5472.0.5120.2880@192dpi" width="2097" height="1382" />
+  </component>
+</application>

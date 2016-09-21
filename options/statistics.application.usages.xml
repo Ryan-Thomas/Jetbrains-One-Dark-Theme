@@ -1,0 +1,35 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="Git">
+      <project id="leaderboard" values="config.push.update.all.roots.enabled,config.ssh.enabled,data.remote.branches.count.1,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,data.remotes.in.project.1,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,data.local.branches.count.1,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.force.push.enabled" collectionTime="1474439580121" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="leaderboard" values="ECMAScript 6" collectionTime="1474476392061" />
+    </group>
+    <group name="images.ide.background">
+      <project id="leaderboard" values="frame 0,editor 0" collectionTime="1474476391926" />
+    </group>
+    <group name="file-type">
+      <project id="leaderboard" values="SCSS,YAML,PLAIN_TEXT,HTML,JavaScript,JSON Schema,JSON,JSHint,JSX Harmony,CSS" collectionTime="1474476391925" />
+    </group>
+    <group name="module type">
+      <project id="leaderboard" values="WEB_MODULE" collectionTime="1474476391915" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="leaderboard" values="Project,Project,Directory,Project" collectionTime="1474476392061" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="5" />
+      <entry feature="ide.settings.Font" count="3" />
+      <entry feature="ide.settings.General" count="3" />
+      <entry feature="ide.settings.JavaScript" count="5" />
+      <entry feature="ide.settings.Keymap" count="2" />
+      <entry feature="ide.settings.Live_Templates" count="28" />
+      <entry feature="ide.settings.Plugins" count="2" />
+      <entry feature="ideaapp.started" count="9" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="1" />
+    </counts>
+  </component>
+</application>

@@ -1,0 +1,19 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="evlsprt3.162" value="18" />
+    <property name="WebStorm.dumbRunEnabled" value="true" />
+    <property name="WebStorm.initialConfigurationShown" value="true" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Downloads/bootstrap3.jar&#10;C:/Users/ryant/Downloads/eslint-plugin.zip&#10;C:/Users/ryant/Downloads/jsToolbox.jar&#10;C:/Users/ryant/OneDrive/Programming/FreeCodeCamp/leaderboard" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="HbAutoCollapseBlocks" value="disabled" />
+    <property name="PLUGIN_FILTER" value="bootstrap&#10;eslint&#10;git" />
+    <property name="plugins.preselection.path" value="$USER_HOME$/Downloads" />
+    <property name="ideavim.statistics.timestamp" value="1474435390651" />
+    <property name="KEYMAP" value="match&#10;edit location&#10;font size" />
+    <property name="settings.code.style.selected.tab.JavaScript" value="Wrapping and Braces" />
+    <property name="selected.color.option.type" value="NOT_USED_ELEMENT_ATTRIBUTES" />
+    <property name="ColorChooser.RecentColors" value="27-245-0-255,,,24-200-0-255,,,190-19-209-255,,,182-109-217-255,,,96-184-191-255,,,105-191-106-255,,,220-85-92-255,,,223-125-193-255,,,88-133-247-255,,,90-175-241-255,,,186-134-217-255,,,200-118-43-255,,,223-195-205-255,,,210-223-204-255,,,222-189-223-255,,,118-114-31-255,,,219-216-216-255,,,245-242-242-255,,,207-207-207-255,,,129-129-129-255" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+  </component>
+</application>
